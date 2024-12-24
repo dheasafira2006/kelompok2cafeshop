@@ -1,5 +1,5 @@
 Kelompok 2
-## 📂 Daftar Isi Folder
+## 📂 Proyek database cafeshop
 - Dokumen 
   - 📘 Dokumentasi awal basis data_Kelompok 2.docx
   - 📙 Laporan Akhir Kelompok 2.docx
